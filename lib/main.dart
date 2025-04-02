@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (_) => ConnectionService(),
       child: MaterialApp(
-        title: 'Mobile Emulator',
+        title: 'Miniblocks Go',
         theme: ThemeData(
           primarySwatch: Colors.blue,
           useMaterial3: true,

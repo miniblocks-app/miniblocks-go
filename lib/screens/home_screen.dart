@@ -20,7 +20,7 @@ class HomeScreen extends StatelessWidget {
 
         return Scaffold(
           appBar: AppBar(
-            title: const Text('Mobile Emulator'),
+            title: const Text('Miniblocks Go'),
             actions: [
               IconButton(
                 icon: const Icon(Icons.settings),
